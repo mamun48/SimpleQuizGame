@@ -17,13 +17,13 @@ The **Java Quiz Game App** is a console-based application developed using plain 
 ### 📂 Folder Structure
 ```plaintext
 📁 JavaQuizGame
-├── 📄 Main.java             // Entry point of the application
-├── 📄 Questions.java         // Class to manage question data
-├── 📄 QuestionService.java             // Logic for running the quiz
-├── 📁 resources             // Optional: Place for storing external question files
-└── README.md                // Project documentation
+├── 📄 Main.java            
+├── 📄 Questions.java       
+├── 📄 QuestionService.java             
+├── 📁 resources            
+└── README.md               
+```
 ### 📖 Example Gameplay
-
 ```plaintext
 Welcome to the Java Quiz Game!
 
