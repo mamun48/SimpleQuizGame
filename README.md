@@ -41,7 +41,7 @@ Question 2: Which of the following is not a Java keyword?
 3. void
 4. private
 Enter your answer (1-4): 2
-Wrong! The correct answer is: 2. main
+Wrong! The correct answer is: 2
 
 Your final score: 1
 
